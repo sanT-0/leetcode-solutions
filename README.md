@@ -18,9 +18,9 @@
 # 💫 About Me
 
 ```python
-class Santhosh:
+class sanT:
 
-    name = "sanT"
+    name = "Santhosh"
 
     education = "B.Tech - Artificial Intelligence & Data Science"
 
