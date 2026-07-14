@@ -92,6 +92,23 @@ print("Always learning 🚀")
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+---
+</div>
+
+## 💻 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/sanT-0?theme=dark&font=Karma&ext=heatmap"/>
+</p>
+
+---
+
 # 📚 Currently Practicing
 
 * 🧠 Data Structures & Algorithms
