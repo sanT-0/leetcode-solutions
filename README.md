@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm <b>sanT</b>
+# 👋 Hi, I'm <b>Santhosh</b>
 
 ### AI & Data Science Enthusiast • Python Developer • Data Analyst
 
