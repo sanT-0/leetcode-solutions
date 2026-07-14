@@ -52,7 +52,7 @@ print("Always learning 🚀")
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,sql,mysql,html,css" />
 </p>
 
 ### AI & Data Science
