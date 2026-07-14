@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://github.com/sanT-0"><img src="https://img.shields.io/badge/GitHub-sanT--0-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://leetcode.com/u/sanT-0/"><img src="https://img.shields.io/badge/LeetCode-sanT--0-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/sanT-0/"><img src="https://img.shields.io/badge/LeetCode-sanT--0-FFA116?style=for-the-badge&logo=leetcode"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=sanT-0&label=Profile%20Views&color=0e75b6&style=flat-square"/>
@@ -52,7 +52,7 @@ print("Always learning 🚀")
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css" />
 </p>
 
 ### AI & Data Science
@@ -71,7 +71,7 @@ print("Always learning 🚀")
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,kali" />
 </p>
 
 ---
