@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=600&lines=Artificial+Intelligence+%26+Data+Science;Python+Developer;Data+Analyst;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sanT-0&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/sanT-0?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/sanT-0?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 </div>
@@ -70,9 +70,9 @@ Become an AI Engineer / Machine Learning Engineer while continuously improving m
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanT-0&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanT-0&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -82,7 +82,7 @@ Become an AI Engineer / Machine Learning Engineer while continuously improving m
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sanT-0&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -92,7 +92,7 @@ Become an AI Engineer / Machine Learning Engineer while continuously improving m
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sanT-0&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -112,7 +112,7 @@ Become an AI Engineer / Machine Learning Engineer while continuously improving m
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanT-0&theme=tokyo-night"/>
 
 </p>
 
